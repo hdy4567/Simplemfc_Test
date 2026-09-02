@@ -60,6 +60,27 @@ BOOL CChildView::PreCreateWindow(CREATESTRUCT& cs)
 //}
 
 
+
+void CChildView::OnColorRed()
+{
+	// TODO: 여기에 명령 처리기 코드를 추가합니다.
+	m_color = RGB(255, 0, 0);
+	invalidate();
+
+}
+
+void CChildView::OnColorGreen()
+{
+	// TODO: 여기에 명령 처리기 코드를 추가합니다.
+}
+
+void CChildView::OnColorBlue()
+{
+	// TODO: 여기에 명령 처리기 코드를 추가합니다.
+}
+
+
+
 void Draw() {
 
 	//dc.SelectStockObject(LTGRAY_BRUSH);

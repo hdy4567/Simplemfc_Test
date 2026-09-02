@@ -3,5 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../SimpleMfc3_/SimpleMfc3_.vcxproj" />
+  <Project Path="../SimpleMfc3_renewer/SimpleMfc3_renewer.vcxproj" />
   <Project Path="Simplemfc2_mouse.vcxproj" />
 </Solution>

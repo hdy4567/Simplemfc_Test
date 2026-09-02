@@ -17,7 +17,14 @@ public:
 
 // 특성입니다.
 public:
-	CArray<TCHAR, TCHAR> m_str;
+	COLORREF m_color;
+
+
+	CChildView::CChildView() {
+		m_color = RGB(255, 0, 0);
+	}
+
+
 
 	BOOL m_bDrawMode;
 	int m_x1, m_y1, m_x2, m_y2;
