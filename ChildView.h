@@ -20,9 +20,9 @@ public:
 	COLORREF m_color;
 
 
-	CChildView::CChildView() {
-		m_color = RGB(255, 0, 0);
-	}
+	//CChildView::CChildView() {
+	//	m_color = RGB(255, 0, 0);
+	//}
 
 
 

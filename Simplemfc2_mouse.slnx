@@ -3,7 +3,14 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../SimpleMfc2_books/SimpleMfc2_books.vcxproj" />
   <Project Path="../SimpleMfc3_/SimpleMfc3_.vcxproj" />
   <Project Path="../SimpleMfc3_renewer/SimpleMfc3_renewer.vcxproj" />
+  <Project Path="../SimpleMfc4_9_2/SimpleMfc4_9_2.vcxproj" />
+  <Project Path="../SimpleMfc4_cal/SimpleMfc4_cal.vcxproj" />
+  <Project Path="../Simplemfc4_controlCreate/Simplemfc4_controlCreate.vcxproj" />
+  <Project Path="../Simplemfc4_dialog/Simplemfc4_dialog.vcxproj" />
+  <Project Path="../SimpleMfc4_docu/SimpleMfc4_docu.vcxproj" />
+  <Project Path="../Simplemfc4_filetest/Simplemfc4_filetest.vcxproj" />
   <Project Path="Simplemfc2_mouse.vcxproj" />
 </Solution>
