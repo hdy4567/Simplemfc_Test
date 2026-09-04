@@ -3,6 +3,11 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Folder Name="/솔루션 항목/">
+    <File Path="test.js" />
+  </Folder>
+  <Project Path="../Practice1a/원본_VS2022_설정_백업/Practice1a.vcxproj" Id="8b69d5ec-d410-49d7-a6ac-6e8a6aaf5c3b" />
+  <Project Path="../Practice2b/Practice2b.vcxproj" Id="998692a1-f17a-4b27-a416-e6852e576111" />
   <Project Path="../SimpleMfc2_books/SimpleMfc2_books.vcxproj" />
   <Project Path="../SimpleMfc3_/SimpleMfc3_.vcxproj" />
   <Project Path="../SimpleMfc3_renewer/SimpleMfc3_renewer.vcxproj" />
@@ -12,5 +17,8 @@
   <Project Path="../Simplemfc4_dialog/Simplemfc4_dialog.vcxproj" />
   <Project Path="../SimpleMfc4_docu/SimpleMfc4_docu.vcxproj" />
   <Project Path="../Simplemfc4_filetest/Simplemfc4_filetest.vcxproj" />
+  <Project Path="../Simplemfc5_1/Simplemfc5_1.vcxproj" />
+  <Project Path="../SimpleMfc5_sema/SimpleMfc5_sema.vcxproj" />
+  <Project Path="../Simplemfc5_thread/Simplemfc5_thread.vcxproj" />
   <Project Path="Simplemfc2_mouse.vcxproj" />
 </Solution>
